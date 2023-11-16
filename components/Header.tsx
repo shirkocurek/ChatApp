@@ -1,5 +1,6 @@
 import DarkModeToggle from "./DarkModeToggle";
 import Logo from "./Logo";
+import UserButton from "./UserButton";
 
 function Header() {
   return (
@@ -10,6 +11,7 @@ function Header() {
           {/*Language section */}
           {/*Session && ... */}
           <DarkModeToggle />
+          <UserButton/>
           {/* user button */}
         </div>
       </nav>
