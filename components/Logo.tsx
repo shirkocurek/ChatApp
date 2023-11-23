@@ -1,4 +1,4 @@
-import LogoImage from "@logos/logo.png";
+import LogoImage from "@logos/Globalchatlogo.png";
 import Link from "next/link";
 import { AspectRatio } from "./ui/aspect-ratio";
 import Image from "next/image";
@@ -16,8 +16,8 @@ function Logo() {
             src={LogoImage}
             alt="logo"
             className="dark:filter dark:invert"
-            width={100}
-            height={200}
+            width={500}
+            height={500}
           />
         </AspectRatio>
       </div>
