@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 import ClientProviders from "@/components/ClientProviders";
 
 export const metadata: Metadata = {
-  title: "GlobalChats",
+  title: "GlobalChat",
   description: "Chat with anyone, anywhere",
 };
 
